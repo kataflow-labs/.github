@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kataflow.uk/KATAFLOW.svg" width="200" alt="KataFlow Labs Logo">
+  <img src="https://kataflow.uk/KATAFLOW.svg" width="200" alt="KataFlow Labs Logo" style="filter: invert(1);">
 </p>
 
 <p align="center">
