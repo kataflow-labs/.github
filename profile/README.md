@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://kataflow.uk/KATAFLOW.svg" width="200" alt="KataFlow Labs Logo" style="filter: invert(1);">
+  <a href="https://kataflow.uk">
+    <img src="KATAFLOW.svg" width="200" alt="KataFlow Labs Logo">
+  </a>
 </p>
+
 
 <p align="center">
   Turning companies' pain points into SaaS solutions.
