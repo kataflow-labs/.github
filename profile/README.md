@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://kataflow.uk">
-    <img src="KATAFLOW-white.svg#gh-dark-mode-only" width="200" alt="KataFlow Labs Logo">
-    <img src="KATAFLOW-black.svg#gh-light-mode-only" width="200" alt="KataFlow Labs Logo">
+    <img src=".github/profile/KATAFLOW-white.svg#gh-dark-mode-only" width="200" alt="KataFlow Labs Logo">
+    <img src=".github/profile/KATAFLOW-black.svg#gh-light-mode-only" width="200" alt="KataFlow Labs Logo">
   </a>
 </p>
 
