@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://kataflow.uk">
-    <img src=".github/profile/KATAFLOW-white.svg#gh-dark-mode-only" width="200" alt="KataFlow Labs Logo">
-    <img src=".github/profile/KATAFLOW-black.svg#gh-light-mode-only" width="200" alt="KataFlow Labs Logo">
+    <img src="KATAFLOW.svg" width="200" alt="KataFlow Labs Logo">
   </a>
 </p>
+
 
 <p align="center">
   Turning companies' pain points into SaaS solutions.
@@ -20,6 +20,6 @@
 
 [KataFlow Labs](https://kataflow.uk/labs) is the SaaS division of [KataFlow](https://kataflow.uk), created to turn recurring business challenges into automated software solutions.  
 
-Built from agency experience, we know the bottlenecks companies face every day. Our mission is to design and deliver SaaS products that modernize operations with AI-powered systems and client-ready workflows.  
+Built from agency experience, we know the bottlenecks companies face every day. Our mission is to design and deliver SaaS products that modernize operations with AI-powered systems and client-ready workflows.
 
-We build reliable products that help businesses run smoother and scale faster.  
+We build reliable products that help businesses run smoother and scale faster.
